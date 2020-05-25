@@ -2,6 +2,10 @@
 
 NodeJS + MongoDB API for User Management, Authentication and Registration
 
-npm install
-npm start
-run it in local with postman
+### install mongodb fisrt in local and run this after!
+
+## npm install
+
+## npm start
+
+## run it in local with postman
